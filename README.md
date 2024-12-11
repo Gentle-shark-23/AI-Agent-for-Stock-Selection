@@ -40,6 +40,9 @@ Strategy:
 	6) Sharpe Ratio
 	7) Portfolio Combination
 	8) risk_score
+
+- Stock_Closing_Prices_10.csv is the data file used in the strategy, which is the same with the one in backtesting folder.
+- 
 - If you have any questions regarding to strategy part, please feel free to contact Ruiyi (rh3269@columbia.edu).
 
 
