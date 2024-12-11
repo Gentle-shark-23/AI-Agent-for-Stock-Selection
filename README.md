@@ -16,7 +16,7 @@ Strategy:
 	8) risk_score
 
 Back-testing:
-Backtesting_single_strategy shows the strategy and backtesting process. Backtesting_single_strategy.ipynb is a sample code showing the backtesting process for a simgle strategy of S&P 500 stock data. In the sample, we demonstrated the portfolio optimization, portfolio relabance and backtesting results with key metrics such as sharpe ratio/ max drawdown/ cumulated return of the portfolio and so on.
+Backtesting_single_strategy.ipynb is a sample code showing the backtesting process for a simgle strategy of S&P 500 stock data. In the sample, we demonstrated the portfolio optimization, portfolio relabance and backtesting results with key metrics such as sharpe ratio/ max drawdown/ cumulated return of the portfolio and so on.
 
 Data:
 Overview
