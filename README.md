@@ -28,7 +28,7 @@ Data:
 	Mean/variance distributions.
 	Cumulative returns with IPO dates marked.
 
-- If you have any questions regarding to strategy part, please feel free to contact Wanzhu(wx2322@columbia.edu)
+- If you have any questions, please feel free to contact Wanzhu(wx2322@columbia.edu)
 
 Strategy:
 - Strategy.ipynb is the main code file, which is mainly based on Mean Variance Strategy. By running it, you can get the results which is already shown in the file named 'summary_results_with_risk_score.csv'.
